@@ -1,0 +1,20 @@
+.page-header {
+  background: rgb(15, 25, 83);
+  background: linear-gradient(
+    90deg,
+    rgba(15, 25, 83, 1) 0%,
+    rgba(11, 11, 166, 1) 48%,
+    rgba(46, 185, 255, 1) 100%
+  );
+  width: 100%;
+  height: 25rem;
+  display: flex;
+  margin: 0;
+}
+
+h1 {
+  color: white;
+  font-family: open sans;
+  display: flex;
+  justify-content: center;
+}
