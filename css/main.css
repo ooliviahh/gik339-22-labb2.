@@ -19,3 +19,22 @@ h1 {
   display: flex;
   font-size: 5rem;
 }
+
+.ul-class {
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
+
+.li-class {
+  padding: 30px;
+  font-size: 1.5rem;
+  width: 40%;
+  list-style: none;
+  border: 0.2rem;
+  border-style: solid;
+  border-color: white;
+}

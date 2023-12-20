@@ -5,7 +5,7 @@ const express = require("express");
 //2.2:
 const server = express();
 
-//Uppgift 3 Använd sqlite3 för att kommuicera med databas:
+//Uppgift 3 Använd sqlite3 för att kommuicera med databasen:
 const sqlite3 = require("sqlite3").verbose();
 
 //2.3:
